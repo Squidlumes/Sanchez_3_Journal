@@ -1,0 +1,8 @@
+What is pseudocode?
+Pseudocode is an informal high-level description of a computer program.
+
+What is it used for?
+It's used for human reading to make computer programming simplier for the user.
+
+Why will we use it?
+To create programs with less mistakes and more production in a short time.
