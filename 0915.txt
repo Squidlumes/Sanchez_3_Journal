@@ -1,0 +1,7 @@
+What is an IDE?
+
+AN IDE is a software that is a debugger and build automaition tools for computer programmers
+
+What is it good for?
+
+It's good to make coding simple that IDE detects bugs and automates codes. It makes the process of coding quicker and the program efficient.
